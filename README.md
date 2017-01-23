@@ -1,5 +1,5 @@
 ## Personal site
-### Personal site on Vue.js, Webpack, Semantic UI, Express.js and Node.js
+### Personal site on Vue.js, Webpack, Firebase Semantic UI, Express.js and Node.js
 ## Clone rep
 ```
 $ git clone https://github.com/voroncv/personal-site.git
